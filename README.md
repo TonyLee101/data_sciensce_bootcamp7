@@ -2,14 +2,16 @@
 
 All my project in the bootcamp. There are 10 sprint as follow.
 
-- Google
-- SQL
+- Spreadsheet
+- SQL Database
 - R programing
 - Data Transformation
 - Data Visualization
-- Essential Statistics
-- Essential ML
-- Python
+- Statistics
+- Intro to Classical Machine Learning
+- Intro to Python
+- Essential Python for Data Analyst
+- Dashboard
 
 Verified Badger: 
 
