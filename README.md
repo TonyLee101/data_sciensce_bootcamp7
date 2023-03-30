@@ -13,5 +13,5 @@ All my project in the bootcamp. There are 10 sprint as follow.
 - Essential Python for Data Analyst
 - Dashboard
 
-Verified Badger: 
+
 
