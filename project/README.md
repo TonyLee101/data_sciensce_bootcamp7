@@ -1,7 +1,7 @@
 # รวมโปรเจค
 
 ## Spreadsheet
-1. เปลี่ยนวันที่ พ.ศ. <-> ค.ศ.
+1. เขียนสูตร เปลี่ยนวันที่ พ.ศ. <-> ค.ศ.
 2. Regular Expression ดึงค่าจากบัตรประชาชน ID Card Paser
 3. Dynamic Query
 
