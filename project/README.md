@@ -17,3 +17,7 @@
 
 ## Power_BI
 1. Basic Power BI 
+
+## Python
+1. Pao_Ying_Chub.py -> สร้างโปรแกรม เป่ายิ้งฉุบ โดย user สามารถเล่นกี่รอบก็ได้ ตอนจบเกมส์ให้สรุปผล win , tie , loss ด้วย
+2. create ATM -> สร้างระบบ ATM ง่ายๆโดยใช้ OOP
