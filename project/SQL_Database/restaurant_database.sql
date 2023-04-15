@@ -9,13 +9,13 @@
 .open restaurant.db
 .mode column
 .mode box
-
+/*
 DROP TABLE menus;
 DROP TABLE transaction_report;
 DROP TABLE customers;
 DROP TABLE crews;
-DROP TABLE promotion;
-  
+DROP TABLE promotion; */
+
 -- Table 1 --
 CREATE TABLE transaction_report (
   ID int,
